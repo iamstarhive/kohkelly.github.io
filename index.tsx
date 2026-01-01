@@ -9,7 +9,7 @@ const container = document.getElementById('root');
 if (container) {
   const root = createRoot(container);
   root.render(
-    <BrowserRouter basename="/Testrun">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/gallery" element={<ArtGallery />} />
