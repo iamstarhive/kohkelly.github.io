@@ -340,7 +340,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '1',
     title: 'Root Memory',
-    imagePath: '/Testrun/images/1-root-memory.jpg',
+    imagePath: '/images/1-root-memory.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2025',
@@ -350,7 +350,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '2',
     title: 'View from the Window',
-    imagePath: '/Testrun/images/2-view-from-the-window.jpg',
+    imagePath: '/images/2-view-from-the-window.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2025',
@@ -360,7 +360,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '3',
     title: 'Ler Ler in Technicolour',
-    imagePath: '/Testrun/images/3-ler-ler-in-technicolour.jpg',
+    imagePath: '/images/3-ler-ler-in-technicolour.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2023',
@@ -370,7 +370,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '4',
     title: 'Spirit Swarm',
-    imagePath: '/Testrun/images/4-spirit-swarm.jpg',
+    imagePath: '/images/4-spirit-swarm.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2023',
@@ -380,7 +380,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '5',
     title: 'Three in the Thicket',
-    imagePath: '/Testrun/images/5-three-in-the-Thicket.jpg',
+    imagePath: '/images/5-three-in-the-Thicket.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2025',
@@ -390,7 +390,7 @@ export const ARTWORKS: Artwork[] = [
   {
     id: '6',
     title: 'Pines and Pillars',
-    imagePath: '/Testrun/images/6-pines-and-Pillars.jpg',
+    imagePath: '/images/6-pines-and-Pillars.jpg',
     license: 'CC BY-NC-SA 4.0',
     featured: true,
     year: '2025',
