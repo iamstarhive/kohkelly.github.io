@@ -126,7 +126,7 @@ const App: React.FC = () => {
             </h1>
             <div className="space-y-8 text-gray-500 leading-relaxed text-xl font-light mb-8">
               <p>
-                Collaboration requires more than just intent—it requires a framework. 
+                Collaboration requires more than just intent. It requires a framework. 
               </p>
               <p>
                 Kohlab Consulting blends a background in law with a deep expertise in regional program management to align stakeholders and clarify delivery. We provide the structural stability that allows social missions to scale safely and effectively.
