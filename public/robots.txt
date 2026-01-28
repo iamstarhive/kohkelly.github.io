@@ -1,0 +1,18 @@
+# robots.txt for Kohlab Consulting
+# https://kohkelly.github.io
+
+User-agent: *
+Allow: /
+
+# Disallow specific paths (if needed)
+Disallow: /node_modules/
+Disallow: /*.tsx$
+Disallow: /*.ts$
+Disallow: /vite.config.ts
+
+# Sitemap location
+Sitemap: https://kohkelly.github.io/sitemap.xml
+
+# Crawl-delay (optional, in seconds)
+# Uncomment if you want to slow down aggressive crawlers
+# Crawl-delay: 1

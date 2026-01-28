@@ -243,7 +243,9 @@ const App: React.FC = () => {
                 >
                   <img
                     src={artwork.imagePath}
-                    alt={artwork.title}
+                    alt={`${artwork.title} - ${artwork.medium} painting by Kelly Koh, ${artwork.year}`}
+                    title={artwork.title}
+                    loading="lazy"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                   {/* Click to View Indicator */}
